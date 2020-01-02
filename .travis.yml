@@ -1,4 +1,3 @@
 language: node_js
-
-before_install:
-    - npm install -g node-gyp@0.10.6 request@2.25.0
+node_js:
+  - 10
